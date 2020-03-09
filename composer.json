@@ -1,0 +1,23 @@
+{
+  "name": "strix/uawords",
+  "authors": [
+    {
+      "name": "strixik",
+      "email": "strixik1985@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Strix\\UaWords\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Strix\\UaWords\\tests\\": "tests/"
+    }
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^8.5"
+  }
+}
