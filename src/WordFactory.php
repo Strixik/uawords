@@ -8,6 +8,6 @@ class WordFactory
 {
     public function hello()
     {
-        return 'Привіт!';
+        return 'Привіт! Це Стрікс';
     }
 }
