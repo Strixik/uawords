@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Strix\UaWords;
+namespace Strixik\UaWords;
 
 
 class WordFactory

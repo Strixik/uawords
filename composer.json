@@ -1,5 +1,5 @@
 {
-  "name": "strix/uawords",
+  "name": "strixik/uawords",
   "authors": [
     {
       "name": "strixik",
@@ -9,12 +9,12 @@
   "require": {},
   "autoload": {
     "psr-4": {
-      "Strix\\UaWords\\": "src/"
+      "Strixik\\UaWords\\": "src/"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "Strix\\UaWords\\tests\\": "tests/"
+      "Strixik\\UaWords\\tests\\": "tests/"
     }
   },
   "require-dev": {

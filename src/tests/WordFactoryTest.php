@@ -1,9 +1,9 @@
 <?php
 
 
-namespace Strix\UaWords\tests;
+namespace Strixik\UaWords\tests;
 
-use Strix\UaWords\WordFactory;
+use Strixik\UaWords\WordFactory;
 use PHPUnit\Framework\TestCase;
 
 class WordFactoryTest extends TestCase
