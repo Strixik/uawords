@@ -11,4 +11,5 @@ class WordFactoryTest extends TestCase
     {
         $this->assertNotNull((new WordFactory())->hello());
     }
+
 }

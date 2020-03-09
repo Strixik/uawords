@@ -8,4 +8,5 @@ class WordFactory
     {
         return 'Привіт! Це Стрікс';
     }
+
 }
