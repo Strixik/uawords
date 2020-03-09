@@ -1,8 +1,6 @@
 <?php
 
-
 namespace Strixik\UaWords;
-
 
 class WordFactory
 {
